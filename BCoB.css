@@ -9,6 +9,11 @@ html, body {
 	font-family: Tahoma;
 	font-size: 12px;
 }
+.forumline  iframe[src^="https://www.geniusdexchange.com"] {
+	display: none;
+	}
+#taboola-below-desktop-forum-thumbnails{display:NONE;} 
+
 .bginput:focus, textarea:focus {
 	border : 1px #ffeacb solid;
 	background: #fff7ec url('http://i56.servimg.com/u/f56/14/71/20/17/blight10.jpg') repeat-x center top;
