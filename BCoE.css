@@ -13,6 +13,15 @@ area#a7la7ekaya-Footer img {
     width: 100px;
     height: 1px;
 }
+area#a7la7ekaya-Footer a img {
+    height: 1px;
+}
+#a7la7ekaya-Footer a img {
+    height: 1px;
+}
+#a7la7ekaya-Footer img {
+    height: 1px;
+}
 .forumline  iframe[src^="https://www.geniusdexchange.com"] {
 	display: none;
 	}
