@@ -363,6 +363,12 @@ a:hover, a:active, body_ahover {
 	text-shadow: 0 1px 0 #220001;
 	border-bottom: 1px #640002 solid;
 }
+td.cat, td.catBottom, td.catHead, td.catLeft, td.catRight, td.catSides, th.thHead {
+	background: #840002 url('http://i56.servimg.com/u/f56/14/71/20/17/btcat16.png') repeat-x center top;
+	color: #FFF;
+	text-shadow: 0 1px 0 #220001;
+	border-bottom: 1px #640002 solid;
+}
 .tcat a:link, .tcat_alink {
 	color: #FFF;
 }
