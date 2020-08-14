@@ -362,6 +362,12 @@ a:hover, a:active, body_ahover {
 	text-shadow: 0 1px 0 #723c00;
 	border-bottom: 1px #b35e00 solid;
 }
+td.cat, td.catBottom, td.catHead, td.catLeft, td.catRight, td.catSides, th.thHead  {
+	background: #c86900 url('http://i56.servimg.com/u/f56/14/71/20/17/btcat12.png') repeat-x center top;
+	color: #FFF;
+	text-shadow: 0 1px 0 #723c00;
+	border-bottom: 1px #b35e00 solid;
+}
 #fa_toolbar{
 	background: #c86900 url('http://i56.servimg.com/u/f56/14/71/20/17/btcat12.png') repeat-x center top;
 	color: #FFF;
