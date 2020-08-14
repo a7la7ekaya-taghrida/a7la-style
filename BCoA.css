@@ -356,7 +356,13 @@ a:hover, a:active, body_ahover {
 	background: #FFF;
 	border: none;
 }
-.tcat, td.catHead, th.thHead {
+.tcat{
+	background: #ce328c url('http://i56.servimg.com/u/f56/14/71/20/17/btcat13.png') repeat-x center top;
+	color: #FFF;
+	text-shadow: 0 1px 0 #841053;
+	border-bottom: 1px #b82b7c solid;
+}
+td.cat, td.catBottom, td.catHead, td.catLeft, td.catRight, td.catSides, th.thHead {
 	background: #ce328c url('http://i56.servimg.com/u/f56/14/71/20/17/btcat13.png') repeat-x center top;
 	color: #FFF;
 	text-shadow: 0 1px 0 #841053;
