@@ -356,7 +356,7 @@ a:hover, a:active, body_ahover {
 	background: #FFF;
 	border: none;
 }
-.tcat {
+.tcat, td.catHead, th.thHead {
 	background: #ce328c url('http://i56.servimg.com/u/f56/14/71/20/17/btcat13.png') repeat-x center top;
 	color: #FFF;
 	text-shadow: 0 1px 0 #841053;
